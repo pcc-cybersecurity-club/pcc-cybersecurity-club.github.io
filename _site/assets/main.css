@@ -1,0 +1,9 @@
+html {
+  background-color: #000;
+}
+
+.flyer {
+  display: block;
+  margin: auto;
+  max-height: 600px;
+}
