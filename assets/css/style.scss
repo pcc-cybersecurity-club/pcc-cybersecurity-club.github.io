@@ -2,8 +2,13 @@
 ---
 
 @import 'jekyll-theme-hacker';
-// .flyer {
-//   display: block;
-//   margin: auto;
-//   max-width: 30%;
-// }
+
+.banner {
+    text-align: center;
+}
+
+.flyer {
+  display: block;
+  margin: auto;
+  max-width: 30%;
+}
