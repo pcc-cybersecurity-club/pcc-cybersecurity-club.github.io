@@ -107,3 +107,5 @@ a { color: #63c0f5; text-shadow: 0 0 5px rgba(104, 182, 255, 0.5); }
 .banner { text-align: center; }
 
 .flyer { display: block; margin: auto; max-width: 30%; }
+
+.post-body img { display: block; margin: auto; max-height: 600px; }
