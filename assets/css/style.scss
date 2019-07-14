@@ -4,7 +4,7 @@
 @import 'jekyll-theme-hacker';
 
 .banner {
-    text-align: center;
+  text-align: center;
 }
 
 .flyer {
@@ -13,9 +13,8 @@
   max-width: 30%;
 }
 
-/*****************
-    Nav Styles
-*****************/
+//  Nav Styles
+
 nav {
   display: block;
   margin: auto;
@@ -30,28 +29,50 @@ nav {
   margin: 0;
   min-width: 100%;
   padding: 0;
-}
 
-.nav-list li {
-  vertical-align: middle;
-  // margin: auto;
-  display: flex;
-  justify-content: flex-start;
-  margin-left: 10px;
-  list-style-image: none;
-  list-style: none;
-}
+  li {
+    display: flex;
+    // margin: auto;
+    justify-content: flex-start;
+    list-style: none;
+    list-style-image: none;
+    margin-left: 10px;
+    vertical-align: middle;
+  }
 
-.nav-list h2 {
-  margin: auto;
+  h2 {
+    margin: auto;
+  }
 }
 
 .nav-logo {
   max-width: 100px;
 }
 
-.post-body img {
+//  Front Page Styles
+.main-logo {
+  margin: auto;
+}
+
+.splash {
+  text-align: center;
+
+  em {
+    display: block;
+    margin: 15px;
+  }
+}
+
+.post-body {
+  background-color: #333;
+  border: 1px dashed #b5e853;
   display: block;
   margin: auto;
-  max-height: 600px;
+  padding: 15px;
+
+  img {
+    display: block;
+    margin: auto;
+    max-height: 600px;
+  }
 }
