@@ -28,7 +28,7 @@ nav {
   list-style-image: none;
   margin: 0;
   min-width: 100%;
-  padding: 10px;
+  padding: 0;
 
   li {
     display: flex;
@@ -38,6 +38,7 @@ nav {
     list-style-image: none;
     margin-left: 10px;
     vertical-align: middle;
+    padding: auto 10px auto;
   }
 
   h2 {
