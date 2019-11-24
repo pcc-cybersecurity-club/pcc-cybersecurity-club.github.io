@@ -1,5 +1,7 @@
 ---
 layout: post
+title: NCL 2019 Fall Season
+tags: [ncl, capture the flag, fall, 2019]
 author: Syn Calvo
 ---
 <em>NCL 2019 Fall Season</em>
