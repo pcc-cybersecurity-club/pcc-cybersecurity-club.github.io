@@ -41,3 +41,5 @@ author: Syn Calvo
 
 <p>We had quite a few members this year that had never competed before and we would like to recognize everyone’s hard work preparing for and competing in such a tough event!  Watch out Spring Season, we’re coming for you next!</p>
 <br>
+
+<h5>Club Members can view detailed Score Reports for each team <a href="https://drive.google.com/drive/u/0/folders/1rLYDyqs2Im7vOt37OApB0w1ZzNSB8Y91">here</a>.</h5>
