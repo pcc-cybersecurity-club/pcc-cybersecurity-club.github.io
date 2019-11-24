@@ -19,15 +19,15 @@ author: Syn Calvo
 
 <h3>PCC-Keep Portland Pwned</h3>
 <p>Scored a total of 2100 points out of a possible 3000 with an overall 87.20% accuracy equalling an 80.74% completion of available challenges and placing them in the top 8.6% of the competition.</p>
-<img src="/assets/images/PCC-Keep Portland Pwned.png"></img><br>
+<img src="/assets/images/PCC-Keep Portland Pwned.png"><br>
 
 <h3>ShoulderSurfers</h3>
 <p>Scored a total of 1915 points out of a possible 3000 with an overall of 81.15% accuracy equalling a 73.33% completion of available challenges and placing them in the top 11.1% of the competition.</p>
-<img src="/assets/images/ShoulderSurfers.png"></img><br>
+<img src="/assets/images/ShoulderSurfers.png"><br>
 
 <h3>PCC-CTL-ALT-1337</h3>
 <p>cored a total of 1770 points out of a possible 3000 with an overall 78.99% accuracy equalling a 69.63% completion of available challenges and placing them in the top 14.9% of the competition.</p>
-<img src="/assets/images/PCC-CTRL-ALT-1337.png"></img><br>
+<img src="/assets/images/PCC-CTRL-ALT-1337.png"><br>
 
 <h3>Shout Outs - Team Game</h3>
 <p>All three teams representing PCC2 rocked the leaderboards and had a blast doing it.  Teams communicate via separate Discord servers throughout the event and use an organized Google spreadsheet to keep track of questions and answers before submission, which helps keep accuracy high.</p>
