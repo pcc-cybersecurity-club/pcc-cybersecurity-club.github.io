@@ -21,7 +21,7 @@ author: Syn Calvo
 
 <h3>PCC-Keep Portland Pwned</h3>
 <p>Scored a total of 2100 points out of a possible 3000 with an overall 87.20% accuracy equalling an 80.74% completion of available challenges and placing them in the top 8.6% of the competition.</p>
-(/assets/images/PCC-Keep Portland Pwned.jpg)<br>
+![l33t H4x0Rz 0nLy!](/assets/images/PCC-Keep Portland Pwned.jpg)<br>
 
 
 <ul>
