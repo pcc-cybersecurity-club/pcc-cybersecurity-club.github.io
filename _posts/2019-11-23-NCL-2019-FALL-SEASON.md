@@ -26,7 +26,7 @@ author: Syn Calvo
 <img src="/assets/images/ShoulderSurfers.png"><br>
 
 <h3>PCC-CTL-ALT-1337</h3>
-<p>cored a total of 1770 points out of a possible 3000 with an overall 78.99% accuracy equalling a 69.63% completion of available challenges and placing them in the top 14.9% of the competition.</p>
+<p>Scored a total of 1770 points out of a possible 3000 with an overall 78.99% accuracy equalling a 69.63% completion of available challenges and placing them in the top 14.9% of the competition.</p>
 <img src="/assets/images/PCC-CTRL-ALT-1337.png"><br>
 
 <h3>Shout Outs - Team Game</h3>
