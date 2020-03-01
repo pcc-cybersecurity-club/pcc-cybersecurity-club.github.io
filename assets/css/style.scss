@@ -52,6 +52,10 @@ nav {
   max-width: 100px;
 }
 
+.nav-item:hover {
+  text-shadow: 2px 2px 5px white;
+}
+
 //  Front Page Styles
 .main-logo {
   margin: auto;
