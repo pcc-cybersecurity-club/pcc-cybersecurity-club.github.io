@@ -60,7 +60,11 @@ nav {
 }
 
 .nav-item:hover {
-  text-shadow: 1px 1px 10px white;
+  text-shadow: 1px 1px 10px #b5e853;
+}
+
+.nav-item:active {
+  color: white;
 }
 
 //  Front Page Styles
@@ -91,7 +95,7 @@ nav {
   }
 }
 
-//  Dropdown stuff
+//  Dropdown stuff WIP
 .dropdown-content {
-	display:none;
+//	display:none;
 }
