@@ -29,6 +29,9 @@ nav {
   margin: 0;
   min-width: 100%;
   padding: 0;
+  position: fixed;
+  top: 0;
+  transition: top 0.8s;
 
   li {
     display: flex;
