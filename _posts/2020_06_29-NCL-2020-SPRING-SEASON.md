@@ -17,7 +17,7 @@ author: Syn Calvo
 <p>William Wheatley-Uhl & Justin Sutton</p>
 
 <h3>Competitors (by handle):</h3>
-<p>kw, signified, shipwreck, Broan, Hoot, Lady Syn, Paul Hochstetler, 2Cool4Pool</p>
+<p>kw, signified, shipwreck, Broan, Hoot, Lady Syn, Paul Hochstetler, 2Cool4Pool, jbisson, wilsac, Cloa, nicsec, KobeNorcross, and NoSightNoFright</p>
 
 <h3>PCC-BeautifulBaudsd</h3>
 <p>Scored a total of 2720 points out of a possible 3000 with an overall 90.54% accuracy equalling an 96.40% completion of available challenges and placing them in the top 1% of the competition.  This team ranked 6th place overall on the leaderboard out of a total of 925 teams nation-wide.</p>
