@@ -25,7 +25,7 @@ author: Syn Calvo
 
 <h3>Monica</h3>
 <p>Scored a total of 1185 points out of a possible 3000 with an overall 70.2% accuracy equalling a 52.5% completion of available challenges and placing them in the top 30% of the competition.</p>
-<img src="/assets/images/monica.png"><br>
+<img src="/assets/images/monica.PNG"><br>
 
 <h3>Shout Outs - Team Game</h3>
 <p>Both teams representing PCC2 rocked the leaderboards and had a blast doing it.  Teams communicate via separate Discord servers throughout the event and use an organized Google spreadsheet to keep track of questions and answers before submission, which helps keep accuracy high.</p>
