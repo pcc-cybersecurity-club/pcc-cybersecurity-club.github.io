@@ -7,6 +7,5 @@ author: Syn Calvo
 Interested in sharing some information about the club?  Feel free to download/save our flyer below and print it, email it, or post it!
 
 <h3><a href="/assets/images/pcc2_flyer.png">PNG Version</a></h3>
-<br>
 
-<h3><a href="/assets/images/pcc2_flyer.pdf">PDF Version</a></h3><br>
+<h3><a href="/assets/images/pcc2_flyer.pdf">PDF Version</a></h3>
