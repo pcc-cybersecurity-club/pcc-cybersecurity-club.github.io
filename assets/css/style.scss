@@ -3,6 +3,10 @@
 
 @import 'jekyll-theme-hacker';
 
+a {
+  color: #008099 !important;
+}
+
 .banner {
   text-align: center;
 }
@@ -19,6 +23,7 @@ nav {
   display: block;
   margin: auto;
   width: 100%;
+  color: #008099 !important;
 }
 
 .nav-list {
@@ -98,4 +103,10 @@ nav {
 //  Dropdown stuff WIP
 .dropdown-content {
 //	display:none;
+}
+
+// Roster table styles
+.rtable a {
+  margin-left: 0;
+  padding-left: 0;
 }
