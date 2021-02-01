@@ -34,6 +34,9 @@ nav {
   margin: 0;
   min-width: 100%;
   padding: 0;
+  position: fixed;
+  top: 0;
+  transition: top 0.8s;
 
   li {
     display: flex;
@@ -55,6 +58,18 @@ nav {
 
 .nav-logo {
   max-width: 100px;
+}
+
+.nav-item {
+  font-size: 1.25em; /* 20px/16 = 1.25em */
+}
+
+.nav-item:hover {
+  text-shadow: 1px 1px 10px #b5e853;
+}
+
+.nav-item:active {
+  color: white;
 }
 
 //  Front Page Styles
@@ -83,6 +98,11 @@ nav {
     margin: auto;
     max-height: 600px;
   }
+}
+
+//  Dropdown stuff WIP
+.dropdown-content {
+//	display:none;
 }
 
 // Roster table styles
